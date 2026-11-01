@@ -1,356 +1,238 @@
-\# iRobot Create 3 Hardware Inventory
+# iRobot Create 3 Hardware Inventory
 
+## Robot
 
+- Model: iRobot Create 3 Educational Robot
 
-\## Robot
+- Condition: Good used condition
 
+- Serial number:
 
+- Previous owner:
 
-\- Model: iRobot Create 3 Educational Robot
+- Date received: October 31, 2026
 
-\- Condition: Good used condition
+## Included Items
 
-\- Serial number:
+- [x] iRobot Create 3 robot
 
-\- Previous owner:
+- [x] Home Base charging dock
 
-\- Date received: October 31, 2026
+- [x] Charging dock power cable
 
+- [x] Ethernet cable
 
+- [x] Original box
 
-\## Included Items
+- [x] Original molded packaging
 
+- [x] Printed Create 3 documentation / quick-start guide
 
+- [x] Raw battery power cable / JST power pigtail
 
-\- \[x] iRobot Create 3 robot
+- [ ] Other accessories
 
-\- \[x] Home Base charging dock
+### Package Contents
 
-\- \[x] Charging dock power cable
+![iRobot Create 3 package contents](../images/create3-inventory.jpeg)
 
-\- \[x] Ethernet cable
+## Additional Accessories
 
-\- \[x] Original box
+### Raw Battery Power Cable
 
-\- \[x] Original molded packaging
+- 2-pin JST XH-style connector
 
-\- \[x] Printed Create 3 documentation / quick-start guide
+- Red wire: battery positive
 
-\- \[x] Raw battery power cable / JST power pigtail
+- Black wire: battery negative
 
-\- \[ ] Other accessories
+- Intended for powering external payload electronics
 
+- Create 3 battery voltage: approximately 12-16.8 V
 
+- Maximum documented current: 2 A
 
-\### Package Contents
+- Status: received, not connected
 
+![Create 3 raw battery power cable](../images/create3-power-cable.jpeg)
 
+## Top of Robot
 
-!\[iRobot Create 3 package contents](../images/create3-inventory.jpeg)
+- [x] Removable faceplate
 
+- [x] Light ring
 
+- [x] Button 1
 
-\## Additional Accessories
+- [x] Center button
 
+- [x] Button 2
 
+- [x] Docking sensor
 
-\### Raw Battery Power Cable
+- [x] IR obstacle sensors
 
+- [x] Multi-zone bumper
 
+- [x] Cable passthrough
 
-\- 2-pin JST XH-style connector
+## Bottom of Robot
 
-\- Red wire: battery positive
+- [x] Left drive wheel
 
-\- Black wire: battery negative
+- [x] Right drive wheel
 
-\- Intended for powering external payload electronics
+- [x] Front caster wheel
 
-\- Create 3 battery voltage: approximately 12-16.8 V
+- [x] Four cliff sensors
 
-\- Maximum documented current: 2 A
+- [x] Optical odometer
 
-\- Status: received, not connected
+- [x] Charging contacts
 
+- [x] Cargo bay / removable compartment
 
+- [x] Carry handle
 
-!\[Create 3 raw battery power cable](../images/create3-power-cable.jpeg)
+- [x] Regulatory identification label
 
+### Bottom View
 
+![Create 3 underside](../images/create3-bottom.jpeg)
 
-\## Top of Robot
+### Identification
 
+- Product: iRobot Create 3
 
+- Regulatory model: STEMB-Y1
 
-\- \[x] Removable faceplate
+- Input rating: 19â€“24 V DC, 1.25 A
 
-\- \[x] Light ring
+- Designed in USA
 
-\- \[x] Button 1
+- Assembled in China
 
-\- \[x] Center button
+![Create 3 model label](../images/create3-model-label.jpeg)
 
-\- \[x] Button 2
+### Condition
 
-\- \[x] Docking sensor
+- Underside appears clean
 
-\- \[x] IR obstacle sensors
+- Drive wheels appear intact
 
-\- \[x] Multi-zone bumper
+- Caster wheel appears intact
 
-\- \[x] Cable passthrough
+- Charging contacts show normal light use
 
+- No obvious physical damage visible
 
+- Cliff sensor windows appear intact
 
-\## Bottom of Robot
+- Optical odometer window appears intact
 
+## Cargo Bay / Connections
 
+- [x] Removable faceplate
 
-\- \[x] Left drive wheel
+- [x] Cargo bay
 
-\- \[x] Right drive wheel
+- [x] Adapter board
 
-\- \[x] Front caster wheel
+- [x] USB / Bluetooth Low Energy toggle switch
 
-\- \[x] Four cliff sensors
+- [x] Bluetooth Low Energy module
 
-\- \[x] Optical odometer
+- [x] Internal iRobot radio / compute module
 
-\- \[x] Charging contacts
+- [x] Cable passthroughs
 
-\- \[x] Cargo bay / removable compartment
+- [ ] USB-C connection inspected
 
-\- \[x] Carry handle
+- [ ] Raw battery power connection inspected
 
-\- \[x] Regulatory identification label
+### Cargo Bay
 
+![Create 3 cargo bay](../images/create3-cargo-bay.jpeg)
 
-
-\### Bottom View
-
-
-
-!\[Create 3 underside](../images/create3-bottom.jpeg)
-
-
-
-\### Identification
-
-
-
-\- Product: iRobot Create 3
-
-\- Regulatory model: STEMB-Y1
-
-\- Input rating: 19–24 V DC, 1.25 A
-
-\- Designed in USA
-
-\- Assembled in China
-
-
-
-!\[Create 3 model label](../images/create3-model-label.jpeg)
-
-
-
-\### Condition
-
-
-
-\- Underside appears clean
-
-\- Drive wheels appear intact
-
-\- Caster wheel appears intact
-
-\- Charging contacts show normal light use
-
-\- No obvious physical damage visible
-
-\- Cliff sensor windows appear intact
-
-\- Optical odometer window appears intact
-
-
-
-\## Cargo Bay / Connections
-
-
-
-\- \[x] Removable faceplate
-
-\- \[x] Cargo bay
-
-\- \[x] Adapter board
-
-\- \[x] USB / Bluetooth Low Energy toggle switch
-
-\- \[x] Bluetooth Low Energy module
-
-\- \[x] Internal iRobot radio / compute module
-
-\- \[x] Cable passthroughs
-
-\- \[ ] USB-C connection inspected
-
-\- \[ ] Raw battery power connection inspected
-
-
-
-\### Cargo Bay
-
-
-
-!\[Create 3 cargo bay](../images/create3-cargo-bay.jpeg)
-
-
-
-\### Adapter Board
-
-
+### Adapter Board
 
 The Create 3 adapter board provides external connections for additional compute hardware.
 
-
-
 Available functions include:
 
+- USB-C connection for external compute boards
 
+- Bluetooth Low Energy communication
 
-\- USB-C connection for external compute boards
+- USB / BLE mode selection switch
 
-\- Bluetooth Low Energy communication
-
-\- USB / BLE mode selection switch
-
-\- External power access for payload electronics
-
-
+- External power access for payload electronics
 
 The USB-C port can provide a USB 2.0 host connection and up to 5 V at 3 A for supported downstream devices.
 
-
-
 The raw battery connection provides approximately 14.4 V nominal, with a documented range of approximately 12-16.8 V and a maximum output of 2 A.
 
+![Create 3 adapter board](../images/create3-adapter-board.jpeg)
 
+### Bluetooth Module
 
-!\[Create 3 adapter board](../images/create3-adapter-board.jpeg)
+- Module: BT850
 
+![Create 3 Bluetooth module](../images/create3-bluetooth-module.jpeg)
 
+### Sundial Module
 
-\### Bluetooth Module
+- iRobot Sundial module
 
+- Model: AXF-Y1
 
-
-\- Module: BT850
-
-
-
-!\[Create 3 Bluetooth module](../images/create3-bluetooth-module.jpeg)
-
-
-
-\### Sundial Module
-
-
-
-\- iRobot Sundial module
-
-\- Model: AXF-Y1
-
-
-
-!\[Create 3 Sundial module](../images/create3-sundial-module.jpeg)
-
-
+![Create 3 Sundial module](../images/create3-sundial-module.jpeg)
 
 No internal components were disconnected or removed during inspection.
 
+## Condition Notes
 
+- Robot appears to be in good used condition.
 
-\## Condition Notes
+- No obvious major physical damage visible from the top.
 
+- Original packaging is included.
 
+- Home Base charging dock is included.
 
-\- Robot appears to be in good used condition.
+- Ethernet cable is included.
 
-\- No obvious major physical damage visible from the top.
+- Printed Create 3 documentation is included.
 
-\- Original packaging is included.
+## Detailed Hardware Photos
 
-\- Home Base charging dock is included.
+### Model Label
 
-\- Ethernet cable is included.
+![Create 3 model label](../images/create3-model-label.jpeg)
 
-\- Printed Create 3 documentation is included.
+### Adapter Board
 
+![Create 3 adapter board](../images/create3-adapter-board.jpeg)
 
+### Bluetooth Module
 
-\## Detailed Hardware Photos
+![Create 3 Bluetooth module](../images/create3-bluetooth-module.jpeg)
 
+### Sundial Module
 
+![Create 3 Sundial module](../images/create3-sundial-module.jpeg)
 
-\### Model Label
+### Raw Battery Power Cable
 
+![Create 3 raw battery power cable](../images/create3-power-cable.jpeg)
 
+### Faceplate Lock
 
-!\[Create 3 model label](../images/create3-model-label.jpeg)
+- Faceplate locking screw: not installed
 
+- The screw is optional and is used to prevent the faceplate from rotating.
 
+- Faceplate currently uses the standard twist-lock attachment.
 
-\### Adapter Board
-
-
-
-!\[Create 3 adapter board](../images/create3-adapter-board.jpeg)
-
-
-
-\### Bluetooth Module
-
-
-
-!\[Create 3 Bluetooth module](../images/create3-bluetooth-module.jpeg)
-
-
-
-\### Sundial Module
-
-
-
-!\[Create 3 Sundial module](../images/create3-sundial-module.jpeg)
-
-
-
-\### Raw Battery Power Cable
-
-
-
-!\[Create 3 raw battery power cable](../images/create3-power-cable.jpeg)
-
-
-
-\### Faceplate Lock
-
-
-
-\- Faceplate locking screw: not installed
-
-\- The screw is optional and is used to prevent the faceplate from rotating.
-
-\- Faceplate currently uses the standard twist-lock attachment.
-
-
-
-!\[Create 3 faceplate lock](../images/create3-faceplate-lock-hole.jpeg)
-
-
-
-
-
-
-
-
+![Create 3 faceplate lock](../images/create3-faceplate-lock-hole.jpeg)
 
